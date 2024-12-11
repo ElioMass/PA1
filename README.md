@@ -8,7 +8,8 @@ The file 1st_task.py is the file in which I used brute force and 1st_task_bab.py
 2)
 For the second task there is the 2nd_task.py file and the mnist_test that is used in the python file.
 There is also a pdf that gives a feed back on the second task.
-Also if you want to run the code and test to plot some clusters what I did is that i run the code in interactive environement with the command: python -i second_task.py in the terminal.
-Then you call the plot function plot_clusters(pixels_np, rpz, 968) and plot the cluster you want to see ( here 968 )
+Also if you want to run the code and test to plot some clusters what I did is that on my Vscode environement I run the code in  ab interactive environement with the command:
+ python -i second_task.py     in the terminal.
+Then this allows me to call the plot function plot_clusters(pixels_np, rpz, 968) and plot the cluster you want to see ( here 968 ).
 
 
