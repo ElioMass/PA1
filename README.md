@@ -1,6 +1,7 @@
 Here you can find the files for the 3 Assignements.
 
 First here is the explanation of the files for the first task :
+
 1)
 At the beginning of both files there is the SRFLP instance that is used to make the calculation and both file return the result of the parralel search so the best permutation and it's cost if you run them. 
 The file 1st_task.py is the file in which I used brute force and 1st_task_bab.py is the file for Branch and Bound.
