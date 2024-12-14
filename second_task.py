@@ -54,6 +54,7 @@ def parallel_affinity_propagation(S, max_iterations, damping_factor):
     R = np.zeros((n_samples, n_samples))
     A = np.zeros((n_samples, n_samples))
 
+    #part to choose to devide the task in different processes or not
     num_processes = 1
     # num_processes = multiprocessing.cpu_count() 
     chunk_size = (n_samples + num_processes - 1) // num_processes
